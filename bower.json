@@ -1,0 +1,13 @@
+{
+    "name": "grunt-bower-demo-app",
+    "version": "0.0.0",
+    "dependencies": {
+        "requirejs": "~2.1.6",
+        "modernizr": "~2.6.2",
+        "requirejs-tpl": "latest",
+        "font-awesome": "~3.2.1",
+        "underscore" : "~1.4.4",
+        "backbone.marionette" : "~1.0.3",
+        "miller" : "git://github.com/millermedeiros/requirejs-plugins.git"
+    }
+}
