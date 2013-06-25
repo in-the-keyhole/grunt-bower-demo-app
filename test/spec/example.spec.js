@@ -5,7 +5,7 @@ describe('Example', function () {
     beforeEach(function () {
     });
 
-    it('should be able to do something', function() {
+    it('true should always be true', function() {
          expect(true).toBeTruthy();
     });
     
