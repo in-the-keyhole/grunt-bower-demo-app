@@ -1,6 +1,6 @@
 {
     "name": "grunt-bower-demo-app",
-    "version": "0.0.0",
+    "version": "1.0.1-SNAPSHOT",
     "dependencies": {
         "requirejs": "~2.1.6",
         "modernizr": "~2.6.2",

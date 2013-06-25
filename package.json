@@ -1,7 +1,7 @@
 {
 	"name": "grunt-bower-demo-app",
 	"description": "The best project ever.",
-	"version": "1.0.0",
+	"version": "1.0.1-SNAPSHOT",
 	"author": {
 		"name": "Jaime Niswonger",
 		"email": "jniswonger@keyholesoftware.com"
